@@ -1,0 +1,5 @@
+timeout: 5s
+loglevel: info
+server:
+    port: 10000
+    path: localhost
